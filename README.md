@@ -47,7 +47,10 @@ The following Python packages are required to run the application:
 2. Upload an image using the Gradio interface.
 3. View the generated caption displayed on the interface.
 
+## Demo
+Below is a demo of the Image Captioning App in action:
 
+![Demo Image](assets/demo.png)
 
 ## License
 This project is licensed under the MIT License. 
